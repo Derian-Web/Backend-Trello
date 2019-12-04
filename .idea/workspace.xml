@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f57bbda7-fe2a-4b01-97ae-bd062556ee8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/comentarios/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listas/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableros/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tarjetas/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarios/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1U7L6D1JQiPvWikHzSPn7T0FBWX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f57bbda7-fe2a-4b01-97ae-bd062556ee8d" name="Default Changelist" comment="" />
+      <created>1574702509559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574702509559</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="201" width="622" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575412303096">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="367" y="201" width="622" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1575412303096" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575395283882">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1575395283882" />
+    <state x="172" y="31" key="SettingsEditor" timestamp="1575395766591">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1575395766591" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575408799598">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1575408799598" />
+  </component>
+</project>
